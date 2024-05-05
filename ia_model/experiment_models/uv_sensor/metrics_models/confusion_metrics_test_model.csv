@@ -1,0 +1,361 @@
+model_name,c_matrix,precision,recall,f1,support
+XGBRegressor_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+AdaBoostClassifier_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+AdaBoostClassifier_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+AdaBoostClassifier_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+AdaBoostClassifier_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+AdaBoostClassifier_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+AdaBoostClassifier_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+AdaBoostClassifier_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+AdaBoostClassifier_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+AdaBoostClassifier_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+AdaBoostClassifier_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+BaggingClassifier_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+BaggingClassifier_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+BaggingClassifier_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+BaggingClassifier_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+BaggingClassifier_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+BaggingClassifier_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+BaggingClassifier_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+BaggingClassifier_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+BaggingClassifier_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+BaggingClassifier_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+DecisionTreeClassifier_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+DecisionTreeClassifier_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+DecisionTreeClassifier_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+DecisionTreeClassifier_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+DecisionTreeClassifier_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+DecisionTreeClassifier_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+DecisionTreeClassifier_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+DecisionTreeClassifier_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+DecisionTreeClassifier_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+DecisionTreeClassifier_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+ExtraTreeClassifier_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+ExtraTreeClassifier_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+ExtraTreeClassifier_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+ExtraTreeClassifier_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+ExtraTreeClassifier_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+ExtraTreeClassifier_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+ExtraTreeClassifier_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+ExtraTreeClassifier_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+ExtraTreeClassifier_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+ExtraTreeClassifier_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GaussianNB_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GaussianNB_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GaussianNB_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GaussianNB_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GaussianNB_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GaussianNB_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GaussianNB_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GaussianNB_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GaussianNB_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GaussianNB_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GradientBoostingClassifier_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GradientBoostingClassifier_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GradientBoostingClassifier_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GradientBoostingClassifier_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GradientBoostingClassifier_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GradientBoostingClassifier_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GradientBoostingClassifier_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GradientBoostingClassifier_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GradientBoostingClassifier_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GradientBoostingClassifier_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+KNeighborsClassifier_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+KNeighborsClassifier_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+KNeighborsClassifier_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+KNeighborsClassifier_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+KNeighborsClassifier_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+KNeighborsClassifier_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+KNeighborsClassifier_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+KNeighborsClassifier_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+KNeighborsClassifier_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+KNeighborsClassifier_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LinearDiscriminantAnalysis_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LinearDiscriminantAnalysis_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LinearDiscriminantAnalysis_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LinearDiscriminantAnalysis_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LinearDiscriminantAnalysis_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LinearDiscriminantAnalysis_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LinearDiscriminantAnalysis_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LinearDiscriminantAnalysis_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LinearDiscriminantAnalysis_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LinearDiscriminantAnalysis_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LinearSVC_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LinearSVC_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LinearSVC_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LinearSVC_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LinearSVC_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LinearSVC_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LinearSVC_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LinearSVC_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LinearSVC_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LinearSVC_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LogisticRegression_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LogisticRegression_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LogisticRegression_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LogisticRegression_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LogisticRegression_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LogisticRegression_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LogisticRegression_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LogisticRegression_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LogisticRegression_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LogisticRegression_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+PassiveAggressiveClassifier_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+PassiveAggressiveClassifier_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+PassiveAggressiveClassifier_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+PassiveAggressiveClassifier_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+PassiveAggressiveClassifier_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+PassiveAggressiveClassifier_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+PassiveAggressiveClassifier_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+PassiveAggressiveClassifier_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+PassiveAggressiveClassifier_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+PassiveAggressiveClassifier_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+QuadraticDiscriminantAnalysis_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+QuadraticDiscriminantAnalysis_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+QuadraticDiscriminantAnalysis_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+QuadraticDiscriminantAnalysis_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+QuadraticDiscriminantAnalysis_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+QuadraticDiscriminantAnalysis_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+QuadraticDiscriminantAnalysis_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+QuadraticDiscriminantAnalysis_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+QuadraticDiscriminantAnalysis_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+QuadraticDiscriminantAnalysis_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RandomForestClassifier_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RandomForestClassifier_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RandomForestClassifier_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RandomForestClassifier_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RandomForestClassifier_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RandomForestClassifier_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RandomForestClassifier_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RandomForestClassifier_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RandomForestClassifier_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RandomForestClassifier_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RidgeClassifier_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RidgeClassifier_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RidgeClassifier_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RidgeClassifier_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RidgeClassifier_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RidgeClassifier_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RidgeClassifier_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RidgeClassifier_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RidgeClassifier_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RidgeClassifier_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SGDClassifier_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SGDClassifier_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SGDClassifier_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SGDClassifier_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SGDClassifier_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SGDClassifier_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SGDClassifier_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SGDClassifier_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SGDClassifier_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SGDClassifier_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SVC_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SVC_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SVC_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SVC_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SVC_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SVC_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SVC_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SVC_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SVC_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SVC_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0

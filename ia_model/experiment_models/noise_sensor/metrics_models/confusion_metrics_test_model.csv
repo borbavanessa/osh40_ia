@@ -1,0 +1,361 @@
+model_name,c_matrix,precision,recall,f1,support
+XGBRegressor_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+AdaBoostClassifier_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+AdaBoostClassifier_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+AdaBoostClassifier_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+AdaBoostClassifier_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+AdaBoostClassifier_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+AdaBoostClassifier_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+AdaBoostClassifier_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+AdaBoostClassifier_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+AdaBoostClassifier_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+AdaBoostClassifier_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+BaggingClassifier_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+BaggingClassifier_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+BaggingClassifier_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+BaggingClassifier_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+BaggingClassifier_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+BaggingClassifier_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+BaggingClassifier_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+BaggingClassifier_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+BaggingClassifier_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+BaggingClassifier_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+DecisionTreeClassifier_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+DecisionTreeClassifier_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+DecisionTreeClassifier_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+DecisionTreeClassifier_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+DecisionTreeClassifier_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+DecisionTreeClassifier_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+DecisionTreeClassifier_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+DecisionTreeClassifier_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+DecisionTreeClassifier_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+DecisionTreeClassifier_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+ExtraTreeClassifier_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+ExtraTreeClassifier_model_1.pkl,"[[1079    1]
+ [   0 1080]]",0.9990749306197965,1.0,0.9995372512725589,1080.0
+ExtraTreeClassifier_model_2.pkl,"[[1076    4]
+ [   0 1080]]",0.996309963099631,1.0,0.9981515711645101,1080.0
+ExtraTreeClassifier_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+ExtraTreeClassifier_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+ExtraTreeClassifier_model_5.pkl,"[[1079    1]
+ [   0 1080]]",0.9990749306197965,1.0,0.9995372512725589,1080.0
+ExtraTreeClassifier_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+ExtraTreeClassifier_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+ExtraTreeClassifier_model_8.pkl,"[[1079    1]
+ [   0 1080]]",0.9990749306197965,1.0,0.9995372512725589,1080.0
+ExtraTreeClassifier_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GaussianNB_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GaussianNB_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GaussianNB_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GaussianNB_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GaussianNB_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GaussianNB_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GaussianNB_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GaussianNB_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GaussianNB_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GaussianNB_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GradientBoostingClassifier_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GradientBoostingClassifier_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GradientBoostingClassifier_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GradientBoostingClassifier_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GradientBoostingClassifier_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GradientBoostingClassifier_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GradientBoostingClassifier_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GradientBoostingClassifier_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GradientBoostingClassifier_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+GradientBoostingClassifier_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+KNeighborsClassifier_model_0.pkl,"[[1079    1]
+ [   0 1080]]",0.9990749306197965,1.0,0.9995372512725589,1080.0
+KNeighborsClassifier_model_1.pkl,"[[1079    1]
+ [   0 1080]]",0.9990749306197965,1.0,0.9995372512725589,1080.0
+KNeighborsClassifier_model_2.pkl,"[[1079    1]
+ [   0 1080]]",0.9990749306197965,1.0,0.9995372512725589,1080.0
+KNeighborsClassifier_model_3.pkl,"[[1079    1]
+ [   0 1080]]",0.9990749306197965,1.0,0.9995372512725589,1080.0
+KNeighborsClassifier_model_4.pkl,"[[1079    1]
+ [   0 1080]]",0.9990749306197965,1.0,0.9995372512725589,1080.0
+KNeighborsClassifier_model_5.pkl,"[[1079    1]
+ [   0 1080]]",0.9990749306197965,1.0,0.9995372512725589,1080.0
+KNeighborsClassifier_model_6.pkl,"[[1079    1]
+ [   0 1080]]",0.9990749306197965,1.0,0.9995372512725589,1080.0
+KNeighborsClassifier_model_7.pkl,"[[1079    1]
+ [   0 1080]]",0.9990749306197965,1.0,0.9995372512725589,1080.0
+KNeighborsClassifier_model_8.pkl,"[[1079    1]
+ [   0 1080]]",0.9990749306197965,1.0,0.9995372512725589,1080.0
+KNeighborsClassifier_model_9.pkl,"[[1079    1]
+ [   0 1080]]",0.9990749306197965,1.0,0.9995372512725589,1080.0
+LinearDiscriminantAnalysis_model_0.pkl,"[[1066   14]
+ [   0 1080]]",0.9872029250457038,1.0,0.9935602575896963,1080.0
+LinearDiscriminantAnalysis_model_1.pkl,"[[1066   14]
+ [   0 1080]]",0.9872029250457038,1.0,0.9935602575896963,1080.0
+LinearDiscriminantAnalysis_model_2.pkl,"[[1066   14]
+ [   0 1080]]",0.9872029250457038,1.0,0.9935602575896963,1080.0
+LinearDiscriminantAnalysis_model_3.pkl,"[[1066   14]
+ [   0 1080]]",0.9872029250457038,1.0,0.9935602575896963,1080.0
+LinearDiscriminantAnalysis_model_4.pkl,"[[1066   14]
+ [   0 1080]]",0.9872029250457038,1.0,0.9935602575896963,1080.0
+LinearDiscriminantAnalysis_model_5.pkl,"[[1066   14]
+ [   0 1080]]",0.9872029250457038,1.0,0.9935602575896963,1080.0
+LinearDiscriminantAnalysis_model_6.pkl,"[[1066   14]
+ [   0 1080]]",0.9872029250457038,1.0,0.9935602575896963,1080.0
+LinearDiscriminantAnalysis_model_7.pkl,"[[1066   14]
+ [   0 1080]]",0.9872029250457038,1.0,0.9935602575896963,1080.0
+LinearDiscriminantAnalysis_model_8.pkl,"[[1066   14]
+ [   0 1080]]",0.9872029250457038,1.0,0.9935602575896963,1080.0
+LinearDiscriminantAnalysis_model_9.pkl,"[[1066   14]
+ [   0 1080]]",0.9872029250457038,1.0,0.9935602575896963,1080.0
+LinearSVC_model_0.pkl,"[[1070   10]
+ [   0 1080]]",0.9908256880733946,1.0,0.9953917050691244,1080.0
+LinearSVC_model_1.pkl,"[[1075    5]
+ [   0 1080]]",0.9953917050691244,1.0,0.997690531177829,1080.0
+LinearSVC_model_2.pkl,"[[1070   10]
+ [   0 1080]]",0.9908256880733946,1.0,0.9953917050691244,1080.0
+LinearSVC_model_3.pkl,"[[1071    9]
+ [   0 1080]]",0.9917355371900827,1.0,0.995850622406639,1080.0
+LinearSVC_model_4.pkl,"[[1078    2]
+ [   0 1080]]",0.9981515711645101,1.0,0.9990749306197965,1080.0
+LinearSVC_model_5.pkl,"[[1073    7]
+ [   0 1080]]",0.9935602575896965,1.0,0.9967697277341948,1080.0
+LinearSVC_model_6.pkl,"[[1074    6]
+ [   0 1080]]",0.994475138121547,1.0,0.9972299168975068,1080.0
+LinearSVC_model_7.pkl,"[[1071    9]
+ [   0 1080]]",0.9917355371900827,1.0,0.995850622406639,1080.0
+LinearSVC_model_8.pkl,"[[1071    9]
+ [   0 1080]]",0.9917355371900827,1.0,0.995850622406639,1080.0
+LinearSVC_model_9.pkl,"[[1071    9]
+ [   0 1080]]",0.9917355371900827,1.0,0.995850622406639,1080.0
+LogisticRegression_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LogisticRegression_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LogisticRegression_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LogisticRegression_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LogisticRegression_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LogisticRegression_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LogisticRegression_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LogisticRegression_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LogisticRegression_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+LogisticRegression_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+PassiveAggressiveClassifier_model_0.pkl,"[[1030   50]
+ [   0 1080]]",0.9557522123893806,1.0,0.9773755656108597,1080.0
+PassiveAggressiveClassifier_model_1.pkl,"[[1062   18]
+ [   0 1080]]",0.9836065573770492,1.0,0.9917355371900827,1080.0
+PassiveAggressiveClassifier_model_2.pkl,"[[1080    0]
+ [   2 1078]]",1.0,0.9981481481481481,0.9990732159406859,1080.0
+PassiveAggressiveClassifier_model_3.pkl,"[[1057   23]
+ [   0 1080]]",0.9791477787851315,1.0,0.9894640403114979,1080.0
+PassiveAggressiveClassifier_model_4.pkl,"[[1080    0]
+ [  26 1054]]",1.0,0.975925925925926,0.9878163074039363,1080.0
+PassiveAggressiveClassifier_model_5.pkl,"[[1064   16]
+ [   0 1080]]",0.9854014598540146,1.0,0.9926470588235294,1080.0
+PassiveAggressiveClassifier_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+PassiveAggressiveClassifier_model_7.pkl,"[[1069   11]
+ [   0 1080]]",0.9899175068744271,1.0,0.9949332105020728,1080.0
+PassiveAggressiveClassifier_model_8.pkl,"[[1069   11]
+ [   0 1080]]",0.9899175068744271,1.0,0.9949332105020728,1080.0
+PassiveAggressiveClassifier_model_9.pkl,"[[1061   19]
+ [   0 1080]]",0.9827115559599636,1.0,0.9912804038549794,1080.0
+QuadraticDiscriminantAnalysis_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+QuadraticDiscriminantAnalysis_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+QuadraticDiscriminantAnalysis_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+QuadraticDiscriminantAnalysis_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+QuadraticDiscriminantAnalysis_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+QuadraticDiscriminantAnalysis_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+QuadraticDiscriminantAnalysis_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+QuadraticDiscriminantAnalysis_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+QuadraticDiscriminantAnalysis_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+QuadraticDiscriminantAnalysis_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RandomForestClassifier_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RandomForestClassifier_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RandomForestClassifier_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RandomForestClassifier_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RandomForestClassifier_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RandomForestClassifier_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RandomForestClassifier_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RandomForestClassifier_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RandomForestClassifier_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RandomForestClassifier_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+RidgeClassifier_model_0.pkl,"[[1066   14]
+ [   0 1080]]",0.9872029250457038,1.0,0.9935602575896963,1080.0
+RidgeClassifier_model_1.pkl,"[[1066   14]
+ [   0 1080]]",0.9872029250457038,1.0,0.9935602575896963,1080.0
+RidgeClassifier_model_2.pkl,"[[1066   14]
+ [   0 1080]]",0.9872029250457038,1.0,0.9935602575896963,1080.0
+RidgeClassifier_model_3.pkl,"[[1066   14]
+ [   0 1080]]",0.9872029250457038,1.0,0.9935602575896963,1080.0
+RidgeClassifier_model_4.pkl,"[[1066   14]
+ [   0 1080]]",0.9872029250457038,1.0,0.9935602575896963,1080.0
+RidgeClassifier_model_5.pkl,"[[1066   14]
+ [   0 1080]]",0.9872029250457038,1.0,0.9935602575896963,1080.0
+RidgeClassifier_model_6.pkl,"[[1066   14]
+ [   0 1080]]",0.9872029250457038,1.0,0.9935602575896963,1080.0
+RidgeClassifier_model_7.pkl,"[[1066   14]
+ [   0 1080]]",0.9872029250457038,1.0,0.9935602575896963,1080.0
+RidgeClassifier_model_8.pkl,"[[1066   14]
+ [   0 1080]]",0.9872029250457038,1.0,0.9935602575896963,1080.0
+RidgeClassifier_model_9.pkl,"[[1066   14]
+ [   0 1080]]",0.9872029250457038,1.0,0.9935602575896963,1080.0
+SGDClassifier_model_0.pkl,"[[1068   12]
+ [   0 1080]]",0.989010989010989,1.0,0.994475138121547,1080.0
+SGDClassifier_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SGDClassifier_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SGDClassifier_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SGDClassifier_model_4.pkl,"[[1076    4]
+ [   0 1080]]",0.996309963099631,1.0,0.9981515711645101,1080.0
+SGDClassifier_model_5.pkl,"[[1071    9]
+ [   0 1080]]",0.9917355371900827,1.0,0.995850622406639,1080.0
+SGDClassifier_model_6.pkl,"[[1080    0]
+ [   2 1078]]",1.0,0.9981481481481481,0.9990732159406859,1080.0
+SGDClassifier_model_7.pkl,"[[1076    4]
+ [   0 1080]]",0.996309963099631,1.0,0.9981515711645101,1080.0
+SGDClassifier_model_8.pkl,"[[1073    7]
+ [   0 1080]]",0.9935602575896965,1.0,0.9967697277341948,1080.0
+SGDClassifier_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SVC_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SVC_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SVC_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SVC_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SVC_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SVC_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SVC_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SVC_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SVC_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+SVC_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_0.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_1.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_2.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_3.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_4.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_5.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_6.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_7.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_8.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0
+XGBRegressor_model_9.pkl,"[[1080    0]
+ [   0 1080]]",1.0,1.0,1.0,1080.0

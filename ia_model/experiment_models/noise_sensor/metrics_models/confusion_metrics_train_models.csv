@@ -1,0 +1,341 @@
+model_name,c_matrix,precision,recall,f1,support
+XGBRegressor_model_0,"[[220   0]
+ [  0 212]]",1.0,1.0,1.0,212.0
+XGBRegressor_model_1,"[[216   0]
+ [  0 216]]",1.0,1.0,1.0,216.0
+XGBRegressor_model_2,"[[196   0]
+ [  0 236]]",1.0,1.0,1.0,236.0
+XGBRegressor_model_3,"[[216   0]
+ [  0 216]]",1.0,1.0,1.0,216.0
+XGBRegressor_model_4,"[[217   0]
+ [  0 215]]",1.0,1.0,1.0,215.0
+XGBRegressor_model_5,"[[216   0]
+ [  0 216]]",1.0,1.0,1.0,216.0
+XGBRegressor_model_6,"[[213   0]
+ [  0 219]]",1.0,1.0,1.0,219.0
+XGBRegressor_model_7,"[[220   0]
+ [  0 212]]",1.0,1.0,1.0,212.0
+XGBRegressor_model_8,"[[230   0]
+ [  0 202]]",1.0,1.0,1.0,202.0
+XGBRegressor_model_9,"[[216   0]
+ [  0 216]]",1.0,1.0,1.0,216.0
+LogisticRegression_model_0,"[[214   0]
+ [  0 218]]",1.0,1.0,1.0,218.0
+LogisticRegression_model_1,"[[219   0]
+ [  0 213]]",1.0,1.0,1.0,213.0
+LogisticRegression_model_2,"[[207   0]
+ [  0 225]]",1.0,1.0,1.0,225.0
+LogisticRegression_model_3,"[[203   0]
+ [  0 229]]",1.0,1.0,1.0,229.0
+LogisticRegression_model_4,"[[202   0]
+ [  0 230]]",1.0,1.0,1.0,230.0
+LogisticRegression_model_5,"[[225   0]
+ [  0 207]]",1.0,1.0,1.0,207.0
+LogisticRegression_model_6,"[[221   1]
+ [  0 210]]",0.995260663507109,1.0,0.997624703087886,210.0
+LogisticRegression_model_7,"[[213   0]
+ [  0 219]]",1.0,1.0,1.0,219.0
+LogisticRegression_model_8,"[[215   0]
+ [  0 217]]",1.0,1.0,1.0,217.0
+LogisticRegression_model_9,"[[240   0]
+ [  0 192]]",1.0,1.0,1.0,192.0
+RidgeClassifier_model_0,"[[214   0]
+ [  0 218]]",1.0,1.0,1.0,218.0
+RidgeClassifier_model_1,"[[218   1]
+ [  0 213]]",0.9953271028037384,1.0,0.9976580796252927,213.0
+RidgeClassifier_model_2,"[[205   2]
+ [  0 225]]",0.9911894273127754,1.0,0.9955752212389382,225.0
+RidgeClassifier_model_3,"[[203   0]
+ [  0 229]]",1.0,1.0,1.0,229.0
+RidgeClassifier_model_4,"[[202   0]
+ [  0 230]]",1.0,1.0,1.0,230.0
+RidgeClassifier_model_5,"[[223   2]
+ [  0 207]]",0.9904306220095693,1.0,0.9951923076923077,207.0
+RidgeClassifier_model_6,"[[220   2]
+ [  0 210]]",0.9905660377358491,1.0,0.9952606635071091,210.0
+RidgeClassifier_model_7,"[[211   2]
+ [  0 219]]",0.9909502262443439,1.0,0.9954545454545455,219.0
+RidgeClassifier_model_8,"[[211   4]
+ [  0 217]]",0.9819004524886877,1.0,0.9908675799086757,217.0
+RidgeClassifier_model_9,"[[236   4]
+ [  0 192]]",0.9795918367346939,1.0,0.9896907216494846,192.0
+SGDClassifier_model_0,"[[214   0]
+ [  0 218]]",1.0,1.0,1.0,218.0
+SGDClassifier_model_1,"[[219   0]
+ [  0 213]]",1.0,1.0,1.0,213.0
+SGDClassifier_model_2,"[[207   0]
+ [  0 225]]",1.0,1.0,1.0,225.0
+SGDClassifier_model_3,"[[203   0]
+ [  0 229]]",1.0,1.0,1.0,229.0
+SGDClassifier_model_4,"[[202   0]
+ [  0 230]]",1.0,1.0,1.0,230.0
+SGDClassifier_model_5,"[[225   0]
+ [  0 207]]",1.0,1.0,1.0,207.0
+SGDClassifier_model_6,"[[222   0]
+ [  1 209]]",1.0,0.9952380952380953,0.9976133651551313,210.0
+SGDClassifier_model_7,"[[213   0]
+ [  0 219]]",1.0,1.0,1.0,219.0
+SGDClassifier_model_8,"[[215   0]
+ [  0 217]]",1.0,1.0,1.0,217.0
+SGDClassifier_model_9,"[[240   0]
+ [  0 192]]",1.0,1.0,1.0,192.0
+PassiveAggressiveClassifier_model_0,"[[207   7]
+ [  0 218]]",0.9688888888888889,1.0,0.9841986455981941,218.0
+PassiveAggressiveClassifier_model_1,"[[218   1]
+ [  0 213]]",0.9953271028037384,1.0,0.9976580796252927,213.0
+PassiveAggressiveClassifier_model_2,"[[207   0]
+ [  1 224]]",1.0,0.9955555555555555,0.9977728285077951,225.0
+PassiveAggressiveClassifier_model_3,"[[200   3]
+ [  0 229]]",0.9870689655172413,1.0,0.9934924078091106,229.0
+PassiveAggressiveClassifier_model_4,"[[202   0]
+ [  4 226]]",1.0,0.9826086956521739,0.9912280701754386,230.0
+PassiveAggressiveClassifier_model_5,"[[223   2]
+ [  0 207]]",0.9904306220095693,1.0,0.9951923076923077,207.0
+PassiveAggressiveClassifier_model_6,"[[222   0]
+ [  0 210]]",1.0,1.0,1.0,210.0
+PassiveAggressiveClassifier_model_7,"[[212   1]
+ [  0 219]]",0.9954545454545455,1.0,0.9977220956719818,219.0
+PassiveAggressiveClassifier_model_8,"[[213   2]
+ [  0 217]]",0.9908675799086758,1.0,0.9954128440366972,217.0
+PassiveAggressiveClassifier_model_9,"[[235   5]
+ [  0 192]]",0.9746192893401016,1.0,0.987146529562982,192.0
+KNeighborsClassifier_model_0,"[[214   0]
+ [  0 218]]",1.0,1.0,1.0,218.0
+KNeighborsClassifier_model_1,"[[219   0]
+ [  0 213]]",1.0,1.0,1.0,213.0
+KNeighborsClassifier_model_2,"[[207   0]
+ [  0 225]]",1.0,1.0,1.0,225.0
+KNeighborsClassifier_model_3,"[[203   0]
+ [  0 229]]",1.0,1.0,1.0,229.0
+KNeighborsClassifier_model_4,"[[202   0]
+ [  0 230]]",1.0,1.0,1.0,230.0
+KNeighborsClassifier_model_5,"[[225   0]
+ [  0 207]]",1.0,1.0,1.0,207.0
+KNeighborsClassifier_model_6,"[[221   1]
+ [  0 210]]",0.995260663507109,1.0,0.997624703087886,210.0
+KNeighborsClassifier_model_7,"[[213   0]
+ [  0 219]]",1.0,1.0,1.0,219.0
+KNeighborsClassifier_model_8,"[[215   0]
+ [  0 217]]",1.0,1.0,1.0,217.0
+KNeighborsClassifier_model_9,"[[240   0]
+ [  0 192]]",1.0,1.0,1.0,192.0
+DecisionTreeClassifier_model_0,"[[214   0]
+ [  0 218]]",1.0,1.0,1.0,218.0
+DecisionTreeClassifier_model_1,"[[219   0]
+ [  0 213]]",1.0,1.0,1.0,213.0
+DecisionTreeClassifier_model_2,"[[207   0]
+ [  0 225]]",1.0,1.0,1.0,225.0
+DecisionTreeClassifier_model_3,"[[203   0]
+ [  0 229]]",1.0,1.0,1.0,229.0
+DecisionTreeClassifier_model_4,"[[202   0]
+ [  0 230]]",1.0,1.0,1.0,230.0
+DecisionTreeClassifier_model_5,"[[225   0]
+ [  0 207]]",1.0,1.0,1.0,207.0
+DecisionTreeClassifier_model_6,"[[222   0]
+ [  0 210]]",1.0,1.0,1.0,210.0
+DecisionTreeClassifier_model_7,"[[213   0]
+ [  0 219]]",1.0,1.0,1.0,219.0
+DecisionTreeClassifier_model_8,"[[215   0]
+ [  0 217]]",1.0,1.0,1.0,217.0
+DecisionTreeClassifier_model_9,"[[240   0]
+ [  0 192]]",1.0,1.0,1.0,192.0
+ExtraTreeClassifier_model_0,"[[214   0]
+ [  0 218]]",1.0,1.0,1.0,218.0
+ExtraTreeClassifier_model_1,"[[219   0]
+ [  0 213]]",1.0,1.0,1.0,213.0
+ExtraTreeClassifier_model_2,"[[207   0]
+ [  0 225]]",1.0,1.0,1.0,225.0
+ExtraTreeClassifier_model_3,"[[203   0]
+ [  0 229]]",1.0,1.0,1.0,229.0
+ExtraTreeClassifier_model_4,"[[202   0]
+ [  0 230]]",1.0,1.0,1.0,230.0
+ExtraTreeClassifier_model_5,"[[225   0]
+ [  0 207]]",1.0,1.0,1.0,207.0
+ExtraTreeClassifier_model_6,"[[222   0]
+ [  0 210]]",1.0,1.0,1.0,210.0
+ExtraTreeClassifier_model_7,"[[213   0]
+ [  0 219]]",1.0,1.0,1.0,219.0
+ExtraTreeClassifier_model_8,"[[215   0]
+ [  0 217]]",1.0,1.0,1.0,217.0
+ExtraTreeClassifier_model_9,"[[240   0]
+ [  0 192]]",1.0,1.0,1.0,192.0
+LinearSVC_model_0,"[[214   0]
+ [  0 218]]",1.0,1.0,1.0,218.0
+LinearSVC_model_1,"[[219   0]
+ [  0 213]]",1.0,1.0,1.0,213.0
+LinearSVC_model_2,"[[206   1]
+ [  0 225]]",0.995575221238938,1.0,0.9977827050997783,225.0
+LinearSVC_model_3,"[[203   0]
+ [  0 229]]",1.0,1.0,1.0,229.0
+LinearSVC_model_4,"[[202   0]
+ [  0 230]]",1.0,1.0,1.0,230.0
+LinearSVC_model_5,"[[225   0]
+ [  0 207]]",1.0,1.0,1.0,207.0
+LinearSVC_model_6,"[[221   1]
+ [  0 210]]",0.995260663507109,1.0,0.997624703087886,210.0
+LinearSVC_model_7,"[[213   0]
+ [  0 219]]",1.0,1.0,1.0,219.0
+LinearSVC_model_8,"[[215   0]
+ [  0 217]]",1.0,1.0,1.0,217.0
+LinearSVC_model_9,"[[238   2]
+ [  0 192]]",0.9896907216494846,1.0,0.9948186528497409,192.0
+SVC_model_0,"[[214   0]
+ [  0 218]]",1.0,1.0,1.0,218.0
+SVC_model_1,"[[219   0]
+ [  0 213]]",1.0,1.0,1.0,213.0
+SVC_model_2,"[[207   0]
+ [  0 225]]",1.0,1.0,1.0,225.0
+SVC_model_3,"[[203   0]
+ [  0 229]]",1.0,1.0,1.0,229.0
+SVC_model_4,"[[202   0]
+ [  0 230]]",1.0,1.0,1.0,230.0
+SVC_model_5,"[[225   0]
+ [  0 207]]",1.0,1.0,1.0,207.0
+SVC_model_6,"[[221   1]
+ [  0 210]]",0.995260663507109,1.0,0.997624703087886,210.0
+SVC_model_7,"[[213   0]
+ [  0 219]]",1.0,1.0,1.0,219.0
+SVC_model_8,"[[215   0]
+ [  0 217]]",1.0,1.0,1.0,217.0
+SVC_model_9,"[[240   0]
+ [  0 192]]",1.0,1.0,1.0,192.0
+GaussianNB_model_0,"[[214   0]
+ [  0 218]]",1.0,1.0,1.0,218.0
+GaussianNB_model_1,"[[219   0]
+ [  0 213]]",1.0,1.0,1.0,213.0
+GaussianNB_model_2,"[[207   0]
+ [  0 225]]",1.0,1.0,1.0,225.0
+GaussianNB_model_3,"[[203   0]
+ [  0 229]]",1.0,1.0,1.0,229.0
+GaussianNB_model_4,"[[202   0]
+ [  0 230]]",1.0,1.0,1.0,230.0
+GaussianNB_model_5,"[[225   0]
+ [  0 207]]",1.0,1.0,1.0,207.0
+GaussianNB_model_6,"[[222   0]
+ [  0 210]]",1.0,1.0,1.0,210.0
+GaussianNB_model_7,"[[213   0]
+ [  0 219]]",1.0,1.0,1.0,219.0
+GaussianNB_model_8,"[[215   0]
+ [  0 217]]",1.0,1.0,1.0,217.0
+GaussianNB_model_9,"[[240   0]
+ [  0 192]]",1.0,1.0,1.0,192.0
+AdaBoostClassifier_model_0,"[[214   0]
+ [  0 218]]",1.0,1.0,1.0,218.0
+AdaBoostClassifier_model_1,"[[219   0]
+ [  0 213]]",1.0,1.0,1.0,213.0
+AdaBoostClassifier_model_2,"[[207   0]
+ [  0 225]]",1.0,1.0,1.0,225.0
+AdaBoostClassifier_model_3,"[[203   0]
+ [  0 229]]",1.0,1.0,1.0,229.0
+AdaBoostClassifier_model_4,"[[202   0]
+ [  0 230]]",1.0,1.0,1.0,230.0
+AdaBoostClassifier_model_5,"[[225   0]
+ [  0 207]]",1.0,1.0,1.0,207.0
+AdaBoostClassifier_model_6,"[[222   0]
+ [  0 210]]",1.0,1.0,1.0,210.0
+AdaBoostClassifier_model_7,"[[213   0]
+ [  0 219]]",1.0,1.0,1.0,219.0
+AdaBoostClassifier_model_8,"[[215   0]
+ [  0 217]]",1.0,1.0,1.0,217.0
+AdaBoostClassifier_model_9,"[[240   0]
+ [  0 192]]",1.0,1.0,1.0,192.0
+BaggingClassifier_model_0,"[[214   0]
+ [  0 218]]",1.0,1.0,1.0,218.0
+BaggingClassifier_model_1,"[[219   0]
+ [  0 213]]",1.0,1.0,1.0,213.0
+BaggingClassifier_model_2,"[[207   0]
+ [  0 225]]",1.0,1.0,1.0,225.0
+BaggingClassifier_model_3,"[[203   0]
+ [  0 229]]",1.0,1.0,1.0,229.0
+BaggingClassifier_model_4,"[[202   0]
+ [  0 230]]",1.0,1.0,1.0,230.0
+BaggingClassifier_model_5,"[[225   0]
+ [  0 207]]",1.0,1.0,1.0,207.0
+BaggingClassifier_model_6,"[[222   0]
+ [  0 210]]",1.0,1.0,1.0,210.0
+BaggingClassifier_model_7,"[[213   0]
+ [  0 219]]",1.0,1.0,1.0,219.0
+BaggingClassifier_model_8,"[[215   0]
+ [  0 217]]",1.0,1.0,1.0,217.0
+BaggingClassifier_model_9,"[[240   0]
+ [  0 192]]",1.0,1.0,1.0,192.0
+RandomForestClassifier_model_0,"[[214   0]
+ [  0 218]]",1.0,1.0,1.0,218.0
+RandomForestClassifier_model_1,"[[219   0]
+ [  0 213]]",1.0,1.0,1.0,213.0
+RandomForestClassifier_model_2,"[[207   0]
+ [  0 225]]",1.0,1.0,1.0,225.0
+RandomForestClassifier_model_3,"[[203   0]
+ [  0 229]]",1.0,1.0,1.0,229.0
+RandomForestClassifier_model_4,"[[202   0]
+ [  0 230]]",1.0,1.0,1.0,230.0
+RandomForestClassifier_model_5,"[[225   0]
+ [  0 207]]",1.0,1.0,1.0,207.0
+RandomForestClassifier_model_6,"[[222   0]
+ [  0 210]]",1.0,1.0,1.0,210.0
+RandomForestClassifier_model_7,"[[213   0]
+ [  0 219]]",1.0,1.0,1.0,219.0
+RandomForestClassifier_model_8,"[[215   0]
+ [  0 217]]",1.0,1.0,1.0,217.0
+RandomForestClassifier_model_9,"[[240   0]
+ [  0 192]]",1.0,1.0,1.0,192.0
+GradientBoostingClassifier_model_0,"[[214   0]
+ [  0 218]]",1.0,1.0,1.0,218.0
+GradientBoostingClassifier_model_1,"[[219   0]
+ [  0 213]]",1.0,1.0,1.0,213.0
+GradientBoostingClassifier_model_2,"[[207   0]
+ [  0 225]]",1.0,1.0,1.0,225.0
+GradientBoostingClassifier_model_3,"[[203   0]
+ [  0 229]]",1.0,1.0,1.0,229.0
+GradientBoostingClassifier_model_4,"[[202   0]
+ [  0 230]]",1.0,1.0,1.0,230.0
+GradientBoostingClassifier_model_5,"[[225   0]
+ [  0 207]]",1.0,1.0,1.0,207.0
+GradientBoostingClassifier_model_6,"[[222   0]
+ [  0 210]]",1.0,1.0,1.0,210.0
+GradientBoostingClassifier_model_7,"[[213   0]
+ [  0 219]]",1.0,1.0,1.0,219.0
+GradientBoostingClassifier_model_8,"[[215   0]
+ [  0 217]]",1.0,1.0,1.0,217.0
+GradientBoostingClassifier_model_9,"[[240   0]
+ [  0 192]]",1.0,1.0,1.0,192.0
+LinearDiscriminantAnalysis_model_0,"[[214   0]
+ [  0 218]]",1.0,1.0,1.0,218.0
+LinearDiscriminantAnalysis_model_1,"[[218   1]
+ [  0 213]]",0.9953271028037384,1.0,0.9976580796252927,213.0
+LinearDiscriminantAnalysis_model_2,"[[205   2]
+ [  0 225]]",0.9911894273127754,1.0,0.9955752212389382,225.0
+LinearDiscriminantAnalysis_model_3,"[[203   0]
+ [  0 229]]",1.0,1.0,1.0,229.0
+LinearDiscriminantAnalysis_model_4,"[[202   0]
+ [  0 230]]",1.0,1.0,1.0,230.0
+LinearDiscriminantAnalysis_model_5,"[[223   2]
+ [  0 207]]",0.9904306220095693,1.0,0.9951923076923077,207.0
+LinearDiscriminantAnalysis_model_6,"[[220   2]
+ [  0 210]]",0.9905660377358491,1.0,0.9952606635071091,210.0
+LinearDiscriminantAnalysis_model_7,"[[211   2]
+ [  0 219]]",0.9909502262443439,1.0,0.9954545454545455,219.0
+LinearDiscriminantAnalysis_model_8,"[[211   4]
+ [  0 217]]",0.9819004524886877,1.0,0.9908675799086757,217.0
+LinearDiscriminantAnalysis_model_9,"[[236   4]
+ [  0 192]]",0.9795918367346939,1.0,0.9896907216494846,192.0
+QuadraticDiscriminantAnalysis_model_0,"[[214   0]
+ [  0 218]]",1.0,1.0,1.0,218.0
+QuadraticDiscriminantAnalysis_model_1,"[[219   0]
+ [  0 213]]",1.0,1.0,1.0,213.0
+QuadraticDiscriminantAnalysis_model_2,"[[207   0]
+ [  0 225]]",1.0,1.0,1.0,225.0
+QuadraticDiscriminantAnalysis_model_3,"[[203   0]
+ [  0 229]]",1.0,1.0,1.0,229.0
+QuadraticDiscriminantAnalysis_model_4,"[[202   0]
+ [  0 230]]",1.0,1.0,1.0,230.0
+QuadraticDiscriminantAnalysis_model_5,"[[225   0]
+ [  0 207]]",1.0,1.0,1.0,207.0
+QuadraticDiscriminantAnalysis_model_6,"[[222   0]
+ [  0 210]]",1.0,1.0,1.0,210.0
+QuadraticDiscriminantAnalysis_model_7,"[[213   0]
+ [  0 219]]",1.0,1.0,1.0,219.0
+QuadraticDiscriminantAnalysis_model_8,"[[215   0]
+ [  0 217]]",1.0,1.0,1.0,217.0
+QuadraticDiscriminantAnalysis_model_9,"[[240   0]
+ [  0 192]]",1.0,1.0,1.0,192.0

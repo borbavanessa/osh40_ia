@@ -1,0 +1,171 @@
+model_name,fpr,tpr,thresholds,roc_auc
+XGBRegressor_model_0,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+XGBRegressor_model_1,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+XGBRegressor_model_2,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+XGBRegressor_model_3,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+XGBRegressor_model_4,[0. 0. 1.],[0.         0.99507389 1.        ],[2. 1. 0.],0.9975369458128078
+XGBRegressor_model_5,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+XGBRegressor_model_6,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+XGBRegressor_model_7,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+XGBRegressor_model_8,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+XGBRegressor_model_9,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+LogisticRegression_model_0,[0. 1.],[0. 1.],[2. 1.],0.5
+LogisticRegression_model_1,[0. 1.],[0. 1.],[2. 1.],0.5
+LogisticRegression_model_2,[0. 1.],[0. 1.],[2. 1.],0.5
+LogisticRegression_model_3,[0. 1.],[0. 1.],[2. 1.],0.5
+LogisticRegression_model_4,[0. 1.],[0. 1.],[2. 1.],0.5
+LogisticRegression_model_5,[0. 1.],[0. 1.],[2. 1.],0.5
+LogisticRegression_model_6,[0. 1.],[0. 1.],[2. 1.],0.5
+LogisticRegression_model_7,[0. 1.],[0. 1.],[2. 1.],0.5
+LogisticRegression_model_8,[0. 1.],[0. 1.],[2. 1.],0.5
+LogisticRegression_model_9,[0. 1.],[0. 1.],[2. 1.],0.5
+RidgeClassifier_model_0,[0. 0. 1.],[0.         0.99082569 1.        ],[2. 1. 0.],0.9954128440366973
+RidgeClassifier_model_1,[0. 0. 1.],[0.         0.99166667 1.        ],[2. 1. 0.],0.9958333333333333
+RidgeClassifier_model_2,[0. 0. 1.],[0.         0.98660714 1.        ],[2. 1. 0.],0.9933035714285714
+RidgeClassifier_model_3,[0. 0. 1.],[0.         0.99095023 1.        ],[2. 1. 0.],0.995475113122172
+RidgeClassifier_model_4,[0. 0. 1.],[0.         0.98130841 1.        ],[2. 1. 0.],0.9906542056074766
+RidgeClassifier_model_5,[0. 0. 1.],[0.         0.97487437 1.        ],[2. 1. 0.],0.9874371859296482
+RidgeClassifier_model_6,[0. 0. 1.],[0.         0.98623853 1.        ],[2. 1. 0.],0.9931192660550459
+RidgeClassifier_model_7,[0. 0. 1.],[0.         0.99033816 1.        ],[2. 1. 0.],0.9951690821256038
+RidgeClassifier_model_8,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+RidgeClassifier_model_9,[0. 0. 1.],[0.         0.99537037 1.        ],[2. 1. 0.],0.9976851851851851
+SGDClassifier_model_0,[0.         0.98130841 1.        ],[0.         0.99541284 1.        ],[2. 1. 0.],0.507052216410872
+SGDClassifier_model_1,[0. 1.],[0. 1.],[2. 1.],0.5
+SGDClassifier_model_2,[0. 1.],[0. 1.],[2. 1.],0.5
+SGDClassifier_model_3,[0. 1.],[0. 1.],[2. 1.],0.5
+SGDClassifier_model_4,[0. 1.],[0. 1.],[2. 1.],0.5
+SGDClassifier_model_5,[0. 1.],[0. 1.],[2. 1.],0.5
+SGDClassifier_model_6,[0. 1.],[0. 1.],[2. 1.],0.5
+SGDClassifier_model_7,[0. 1.],[0. 1.],[2. 1.],0.5
+SGDClassifier_model_8,[0. 1.],[0. 1.],[2. 1.],0.5
+SGDClassifier_model_9,[0. 1.],[0. 1.],[2. 1.],0.5
+PassiveAggressiveClassifier_model_0,[0.         0.00934579 1.        ],[0. 0. 1.],[2. 1. 0.],0.4953271028037383
+PassiveAggressiveClassifier_model_1,[0. 1.],[0. 1.],[1. 0.],0.5
+PassiveAggressiveClassifier_model_2,[0. 1.],[0. 1.],[1. 0.],0.5
+PassiveAggressiveClassifier_model_3,[0.         0.22274882 1.        ],[0.         0.23076923 1.        ],[2. 1. 0.],0.504010207801677
+PassiveAggressiveClassifier_model_4,[0.         0.14220183 1.        ],[0.         0.10280374 1.        ],[2. 1. 0.],0.4803009517276858
+PassiveAggressiveClassifier_model_5,[0.         0.27038627 1.        ],[0.         0.24623116 1.        ],[2. 1. 0.],0.48792244484223696
+PassiveAggressiveClassifier_model_6,[0.         0.73364486 1.        ],[0.         0.75688073 1.        ],[2. 1. 0.],0.5116179370659351
+PassiveAggressiveClassifier_model_7,[0.         0.32888889 1.        ],[0.        0.3236715 1.       ],[2. 1. 0.],0.4973913043478261
+PassiveAggressiveClassifier_model_8,[0.         0.51965066 1.        ],[0.         0.55665025 1.        ],[2. 1. 0.],0.5184997956417923
+PassiveAggressiveClassifier_model_9,[0.         0.00462963 1.        ],[0.         0.00925926 1.        ],[2. 1. 0.],0.5023148148148148
+KNeighborsClassifier_model_0,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+KNeighborsClassifier_model_1,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+KNeighborsClassifier_model_2,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+KNeighborsClassifier_model_3,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+KNeighborsClassifier_model_4,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+KNeighborsClassifier_model_5,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+KNeighborsClassifier_model_6,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+KNeighborsClassifier_model_7,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+KNeighborsClassifier_model_8,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+KNeighborsClassifier_model_9,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+DecisionTreeClassifier_model_0,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+DecisionTreeClassifier_model_1,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+DecisionTreeClassifier_model_2,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+DecisionTreeClassifier_model_3,[0. 0. 1.],[0.         0.99547511 1.        ],[2. 1. 0.],0.997737556561086
+DecisionTreeClassifier_model_4,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+DecisionTreeClassifier_model_5,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+DecisionTreeClassifier_model_6,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+DecisionTreeClassifier_model_7,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+DecisionTreeClassifier_model_8,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+DecisionTreeClassifier_model_9,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+ExtraTreeClassifier_model_0,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+ExtraTreeClassifier_model_1,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+ExtraTreeClassifier_model_2,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+ExtraTreeClassifier_model_3,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+ExtraTreeClassifier_model_4,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+ExtraTreeClassifier_model_5,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+ExtraTreeClassifier_model_6,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+ExtraTreeClassifier_model_7,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+ExtraTreeClassifier_model_8,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+ExtraTreeClassifier_model_9,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+LinearSVC_model_0,[0. 1.],[0. 1.],[1. 0.],0.5
+LinearSVC_model_1,[0.  0.5 1. ],[0.    0.475 1.   ],[2. 1. 0.],0.48750000000000004
+LinearSVC_model_2,[0. 1.],[0. 1.],[1. 0.],0.5
+LinearSVC_model_3,[0. 1.],[0. 1.],[1. 0.],0.5
+LinearSVC_model_4,[0.        0.2706422 1.       ],[0.         0.28504673 1.        ],[2. 1. 0.],0.5072022635685501
+LinearSVC_model_5,[0.         0.77253219 1.        ],[0.         0.78894472 1.        ],[2. 1. 0.],0.5082062673884444
+LinearSVC_model_6,[0.         0.07009346 1.        ],[0.         0.05963303 1.        ],[2. 1. 0.],0.4947697847895053
+LinearSVC_model_7,[0.         0.83111111 1.        ],[0.         0.84541063 1.        ],[2. 1. 0.],0.5071497584541063
+LinearSVC_model_8,[0.         0.72052402 1.        ],[0.         0.73399015 1.        ],[2. 1. 0.],0.5067330651580012
+LinearSVC_model_9,[0.         0.03240741 1.        ],[0.         0.01388889 1.        ],[2. 1. 0.],0.4907407407407407
+SVC_model_0,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+SVC_model_1,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+SVC_model_2,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+SVC_model_3,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+SVC_model_4,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+SVC_model_5,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+SVC_model_6,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+SVC_model_7,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+SVC_model_8,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+SVC_model_9,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+GaussianNB_model_0,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+GaussianNB_model_1,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+GaussianNB_model_2,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+GaussianNB_model_3,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+GaussianNB_model_4,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+GaussianNB_model_5,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+GaussianNB_model_6,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+GaussianNB_model_7,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+GaussianNB_model_8,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+GaussianNB_model_9,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+AdaBoostClassifier_model_0,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+AdaBoostClassifier_model_1,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+AdaBoostClassifier_model_2,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+AdaBoostClassifier_model_3,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+AdaBoostClassifier_model_4,[0. 0. 1.],[0.        0.9953271 1.       ],[2. 1. 0.],0.9976635514018692
+AdaBoostClassifier_model_5,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+AdaBoostClassifier_model_6,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+AdaBoostClassifier_model_7,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+AdaBoostClassifier_model_8,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+AdaBoostClassifier_model_9,[0. 0. 1.],[0.         0.99537037 1.        ],[2. 1. 0.],0.9976851851851851
+BaggingClassifier_model_0,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+BaggingClassifier_model_1,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+BaggingClassifier_model_2,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+BaggingClassifier_model_3,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+BaggingClassifier_model_4,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+BaggingClassifier_model_5,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+BaggingClassifier_model_6,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+BaggingClassifier_model_7,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+BaggingClassifier_model_8,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+BaggingClassifier_model_9,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+RandomForestClassifier_model_0,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+RandomForestClassifier_model_1,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+RandomForestClassifier_model_2,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+RandomForestClassifier_model_3,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+RandomForestClassifier_model_4,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+RandomForestClassifier_model_5,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+RandomForestClassifier_model_6,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+RandomForestClassifier_model_7,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+RandomForestClassifier_model_8,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+RandomForestClassifier_model_9,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+GradientBoostingClassifier_model_0,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+GradientBoostingClassifier_model_1,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+GradientBoostingClassifier_model_2,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+GradientBoostingClassifier_model_3,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+GradientBoostingClassifier_model_4,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+GradientBoostingClassifier_model_5,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+GradientBoostingClassifier_model_6,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+GradientBoostingClassifier_model_7,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+GradientBoostingClassifier_model_8,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+GradientBoostingClassifier_model_9,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+LinearDiscriminantAnalysis_model_0,[0. 0. 1.],[0.         0.99082569 1.        ],[2. 1. 0.],0.9954128440366973
+LinearDiscriminantAnalysis_model_1,[0. 0. 1.],[0.         0.99166667 1.        ],[2. 1. 0.],0.9958333333333333
+LinearDiscriminantAnalysis_model_2,[0. 0. 1.],[0.         0.98660714 1.        ],[2. 1. 0.],0.9933035714285714
+LinearDiscriminantAnalysis_model_3,[0. 0. 1.],[0.         0.99095023 1.        ],[2. 1. 0.],0.995475113122172
+LinearDiscriminantAnalysis_model_4,[0. 0. 1.],[0.         0.98130841 1.        ],[2. 1. 0.],0.9906542056074766
+LinearDiscriminantAnalysis_model_5,[0. 0. 1.],[0.         0.97487437 1.        ],[2. 1. 0.],0.9874371859296482
+LinearDiscriminantAnalysis_model_6,[0. 0. 1.],[0.         0.98623853 1.        ],[2. 1. 0.],0.9931192660550459
+LinearDiscriminantAnalysis_model_7,[0. 0. 1.],[0.         0.99033816 1.        ],[2. 1. 0.],0.9951690821256038
+LinearDiscriminantAnalysis_model_8,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+LinearDiscriminantAnalysis_model_9,[0. 0. 1.],[0.         0.99537037 1.        ],[2. 1. 0.],0.9976851851851851
+QuadraticDiscriminantAnalysis_model_0,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+QuadraticDiscriminantAnalysis_model_1,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+QuadraticDiscriminantAnalysis_model_2,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+QuadraticDiscriminantAnalysis_model_3,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+QuadraticDiscriminantAnalysis_model_4,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+QuadraticDiscriminantAnalysis_model_5,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+QuadraticDiscriminantAnalysis_model_6,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+QuadraticDiscriminantAnalysis_model_7,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+QuadraticDiscriminantAnalysis_model_8,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
+QuadraticDiscriminantAnalysis_model_9,[0. 0. 1.],[0. 1. 1.],[2. 1. 0.],1.0
